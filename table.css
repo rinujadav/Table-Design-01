@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(to left, #3e0390, #db0a76);
+}
+
+.card-spacing {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(to left, #25b7c4, #25c481);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25),
+        0 10px 10px rgba(0, 0, 0, 0.22);
+    text-align: center;
+    margin-top: 100px;
+}
+.header-coloum {
+    background-color: #69eac6; 
+    
+}
+
+.all-font-color {
+    color: white;
+    font-size: small;
+    border-color: #ccc7c780;
+}
+ 
+table thead tr td {
+    padding-top: 20px !important; 
+    padding-bottom: 20px !important; 
+    border-bottom: black !important;
+}
